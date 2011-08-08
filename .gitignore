@@ -20,7 +20,6 @@ pkg
 
 ## PROJECT::SPECIFIC
 *.gem
-.rvmrc
 .bundle
 
 ## SASS
